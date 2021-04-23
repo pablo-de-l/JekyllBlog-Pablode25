@@ -1,15 +1,12 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about/
+portrait:
+  src: https://via.placeholder.com/288
+  alt: Pablo's portrait
 ---
 
-Some information about you!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id ex non sem fringilla porta vel quis nunc. Maecenas est quam, sagittis non ultricies vitae, porttitor quis libero. Aenean tincidunt eu eros id vulputate. Maecenas viverra convallis dapibus. Aenean consectetur felis eu pretium lobortis. Suspendisse laoreet aliquam erat, eu rutrum.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Contact me at [{{site.footer-links.email}}](mailto:{{site.footer-links.email}})
