@@ -3,10 +3,12 @@ layout: about
 title: About
 permalink: /about/
 portrait:
-  src: https://via.placeholder.com/288
+  src: https://i.ibb.co/1LxBVCg/Pablo.jpg
   alt: Pablo's portrait
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id ex non sem fringilla porta vel quis nunc. Maecenas est quam, sagittis non ultricies vitae, porttitor quis libero. Aenean tincidunt eu eros id vulputate. Maecenas viverra convallis dapibus. Aenean consectetur felis eu pretium lobortis. Suspendisse laoreet aliquam erat, eu rutrum.
+I'm Pablo, a Mexican designer that inspires and empowers people through art and design by collaborating in multidisciplinary teams to tell stories. I'm always ready to create and develop new ideas by implementing innovative solutions to communicate with an audience.
+
+I'm currently studying for an Experience Design and Production Bachelor of Fine Arts at the California Institute of the Arts.
 
 Contact me at [{{site.footer-links.email}}](mailto:{{site.footer-links.email}})
