@@ -1,4 +1,5 @@
 echo Please Wait....
+mkdir ../.gem
 cp -r gemBINS/* ../.gem
 export PATH=/home/runner/.gem/ruby/2.5.0/bin:$PATH
 chmod +x /home/runner/.gem/ruby/2.5.0/bin/*
