@@ -1,22 +1,26 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
-    {% include fonts.html %}
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+<html lang="en" class="h-100">
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+{% include head.html %}
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+<body class="d-flex flex-column h-100">
 
-  <body>
-    {{content}}
-  </body>
+  <main class="flex-shrink-0 container mt-5">
+  {% include navbar.html %}
+  {{ content }}
+  </main>
+
+  {% include footer.html %}
+  {% include analytics.html %}
+  {% include scripts.html %}
+
+</body>
+
 </html>
