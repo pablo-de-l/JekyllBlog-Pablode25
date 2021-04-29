@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Pablo de Larrañaga Aramoni
-description         : This is Pablo's awesome portfolio site (now with a theme)
+description         : Transforming our shared history by connecting human stories through experience design.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          :     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -30,11 +30,11 @@ author:
   image             : https://i.imgur.com/uyDNQnn.jpg
   behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : pablodel@alum.calarts.edu
   facebook          : your_username
   github            : your_username
 # gitlab            : your_username
-# instagram         : your_username
+# instagram         : pablodel.art
 # kaggle            : your_username
   linkedin          : your_username
   medium            : your_username
