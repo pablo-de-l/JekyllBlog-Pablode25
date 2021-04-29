@@ -1,7 +1,6 @@
 ### Site Settings ###
 title               : Pablo de Larrañaga Aramoni
-description         : I'm a Mexican designer that inspires and empowers people through art and design by collaborating in multidisciplinary teams to tell stories. I'm always ready to create and develop new ideas by implementing innovative solutions to communicate with an audience. I'm currently studying for an Experience Design and Production Bachelor of Fine Arts at the California Institute of the Arts. 
-
+description         : This is Pablo's awesome portfolio site (now with a theme)
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          :     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
