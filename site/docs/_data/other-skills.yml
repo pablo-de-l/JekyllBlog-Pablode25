@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: Photoshop
+percentage: 90
+color: secondary
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Illustrator
+percentage: 80
+color: secondary
+
+- name: SketchUp
+percentage: 80
+color: success
+
+- name: VectorWorks
+percentage: 70
+color: success
