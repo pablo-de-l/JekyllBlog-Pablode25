@@ -1,0 +1,2 @@
+I"Ô<p>To <strong>center</strong> your buttons, surround it with the following HTML tag:<br /> <code class="language-plaintext highlighter-rouge">&lt;p class="text-center"&gt; {% include ... %} &lt;/p&gt;</code></p>
+:ET

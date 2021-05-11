@@ -1,0 +1,2 @@
+I"Ò<p><strong>How to get a YouTube video ID?</strong><br /> The video ID is located in the URL of the video page, right after the <code class="language-plaintext highlighter-rouge">v=</code> URL parameter.<br /> In this case, the URL of the video is: <code class="language-plaintext highlighter-rouge">https://www.youtube.com/watch?v=aZNbUITN-mA</code>.<br /> Therefore, the ID of the video is <code class="language-plaintext highlighter-rouge">aZNbUITN-mA</code>.</p>
+:ET

@@ -1,0 +1,27 @@
+I"±<table>
+  <thead>
+    <tr>
+      <th>Left</th>
+      <th style="text-align: center">Center</th>
+      <th style="text-align: right">Right</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>col 3 is</td>
+      <td style="text-align: center">right-aligned</td>
+      <td style="text-align: right">$160000</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td style="text-align: center">centered</td>
+      <td style="text-align: right">$12</td>
+    </tr>
+    <tr>
+      <td><strong>Use</strong></td>
+      <td style="text-align: center"><code class="language-plaintext highlighter-rouge">Markdown</code></td>
+      <td style="text-align: right">$1</td>
+    </tr>
+  </tbody>
+</table>
+:ET

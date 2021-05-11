@@ -1,0 +1,15 @@
+- name: Photoshop
+  percentage: 90
+  color: secondary
+
+- name: Illustrator
+  percentage: 80
+  color: secondary
+
+- name: SketchUp
+  percentage: 80
+  color: success
+
+- name: VectorWorks
+  percentage: 70
+  color: success
