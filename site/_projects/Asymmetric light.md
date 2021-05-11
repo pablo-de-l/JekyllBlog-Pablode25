@@ -1,6 +1,6 @@
 ---
 name: Asymmetric light
-tools: [C#, XML, WPF]
+tools: [Sculpture, Lighting design]
 image: https://i.ibb.co/89Y9kgM/4.jpg
 alt: Ornamental sculpture utilizing arabesque tesselation principles
 description: Asymmetric Light (غیر متناسب روشنی) is a modern approach to the representation of oneness, nonduality and divine unity deeply rooted in Indian thought and religions.

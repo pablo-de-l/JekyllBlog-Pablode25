@@ -2,6 +2,7 @@
 name: The originality within appropriation
 tools: [Essay, Critical studies]
 image: https://i.ibb.co/5hSdC5W/cover.jpg
+alt: Vibrant and colorful background with a translucid layer of words.
 description: From legal to intellectual and ethical property, this essay challenges the way we understand the notion of ownership in art.
 ---
 

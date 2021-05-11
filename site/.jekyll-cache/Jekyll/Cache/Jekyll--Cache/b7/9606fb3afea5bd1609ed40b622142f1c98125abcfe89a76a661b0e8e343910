@@ -1,8 +1,8 @@
-I"�/{"source"=>"/home/runner/JekyllBlog-Pablode25/site", "destination"=>"../docs", "collections_dir"=>"", "cache_dir"=>".jekyll-cache", "plugins_dir"=>"_plugins", "layouts_dir"=>"_layouts", "data_dir"=>"_data", "includes_dir"=>"_includes", "collections"=>{"posts"=>{"output"=>true, "permalink"=>"/blog/:title"}, "projects"=>{"output"=>true, "permalink"=>"/projects/:name"}, "elements"=>{"output"=>true}}, "safe"=>false, "include"=>[".htaccess"], "exclude"=>["README.md", "CONTRIBUTING.md", "LICENSE", "*.log", ".sass-cache", ".jekyll-cache", "gemfiles", "Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"], "keep_files"=>[".git", ".svn"], "encoding"=>"utf-8", "markdown_ext"=>"markdown,mkdown,mkdn,mkd,md", "strict_front_matter"=>false, "show_drafts"=>nil, "limit_posts"=>0, "future"=>false, "unpublished"=>false, "whitelist"=>[], "plugins"=>["jemoji"], "markdown"=>"kramdown", "highlighter"=>"rouge", "lsi"=>false, "excerpt_separator"=>"\n\n", "incremental"=>false, "detach"=>false, "port"=>"8080", "host"=>"0.0.0.0", "baseurl"=>"", "show_dir_listing"=>false, "permalink"=>"/blog/:title", "paginate_path"=>"/page:num", "timezone"=>nil, "quiet"=>false, "verbose"=>false, "defaults"=>[{"scope"=>{"path"=>"", "type"=>"projects"}, "values"=>{"layout"=>"page"}}, {"scope"=>{"path"=>"", "type"=>"elements"}, "values"=>{"layout"=>"element"}}, {"scope"=>{"path"=>"", "type"=>"posts"}, "values"=>{"comments"=>false}}], "liquid"=>{"error_mode"=>"warn", "strict_filters"=>false, "strict_variables"=>false}, "kramdown"=>{"auto_ids"=>true, "toc_levels"=>[1, 2, 3, 4, 5, 6], "entity_output"=>"as_char", "smart_quotes"=>"lsquo,rsquo,ldquo,rdquo", "input"=>"GFM", "hard_wrap"=>false, "guess_lang"=>true, "footnote_nr"=>1, "show_warnings"=>false}, "title"=>"Pablo de Larrañaga Aramoni", "description"=>"Connecting human stories through experience design.", "repository"=>nil, "remote_theme"=>nil, "nav_exclude"=>["docs/pages/tags.html", "docs/pages/404.html", "docs/pages/index.md", "docs/documentation/partials/**", "docs/pages/blog.html", "docs/documentation/elements.html", "docs/documentation/github.md", "docs/documentation/docs.md"], "author"=>{"name"=>"Pablo", "image"=>"https://i.ibb.co/mzdZFfp/Pablo-jekyll.png", "behance"=>"your_username", "email"=>"pablodel@alum.calarts.edu", "facebook"=>"your_username", "github"=>"your_username", "linkedin"=>"your_username", "medium"=>"your_username", "twitter"=>"your_username"}, "disqus"=>{"shortname"=>"your-short-name-disqus"}, "analytics"=>{"enabled"=>false, "google"=>{"tracking_id"=>"your-google-tracking-id"}}, "livereload_port"=>35729, "serving"=>true, "watch"=>true, "url"=>"http://0.0.0.0:8080", "github"=>{
+I"P4{"source"=>"/home/runner/JekyllBlog-Pablode25/site", "destination"=>"../docs", "collections_dir"=>"", "cache_dir"=>".jekyll-cache", "plugins_dir"=>"_plugins", "layouts_dir"=>"_layouts", "data_dir"=>"_data", "includes_dir"=>"_includes", "collections"=>{"posts"=>{"output"=>true, "permalink"=>"/blog/:title"}, "projects"=>{"output"=>true, "permalink"=>"/projects/:name"}, "elements"=>{"output"=>true}}, "safe"=>false, "include"=>[".htaccess"], "exclude"=>["README.md", "CONTRIBUTING.md", "LICENSE", "*.log", ".sass-cache", ".jekyll-cache", "gemfiles", "Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"], "keep_files"=>[".git", ".svn"], "encoding"=>"utf-8", "markdown_ext"=>"markdown,mkdown,mkdn,mkd,md", "strict_front_matter"=>false, "show_drafts"=>nil, "limit_posts"=>0, "future"=>false, "unpublished"=>false, "whitelist"=>[], "plugins"=>["jemoji"], "markdown"=>"kramdown", "highlighter"=>"rouge", "lsi"=>false, "excerpt_separator"=>"\n\n", "incremental"=>false, "detach"=>false, "port"=>"8080", "host"=>"0.0.0.0", "baseurl"=>"", "show_dir_listing"=>false, "permalink"=>"/blog/:title", "paginate_path"=>"/page:num", "timezone"=>nil, "quiet"=>false, "verbose"=>false, "defaults"=>[{"scope"=>{"path"=>"", "type"=>"projects"}, "values"=>{"layout"=>"page"}}, {"scope"=>{"path"=>"", "type"=>"elements"}, "values"=>{"layout"=>"element"}}, {"scope"=>{"path"=>"", "type"=>"posts"}, "values"=>{"comments"=>false}}], "liquid"=>{"error_mode"=>"warn", "strict_filters"=>false, "strict_variables"=>false}, "kramdown"=>{"auto_ids"=>true, "toc_levels"=>[1, 2, 3, 4, 5, 6], "entity_output"=>"as_char", "smart_quotes"=>"lsquo,rsquo,ldquo,rdquo", "input"=>"GFM", "hard_wrap"=>false, "guess_lang"=>true, "footnote_nr"=>1, "show_warnings"=>false}, "title"=>"Pablo de Larrañaga Aramoni", "description"=>"Connecting human stories through experience design.", "repository"=>nil, "remote_theme"=>nil, "nav_exclude"=>["docs/pages/tags.html", "docs/pages/404.html", "docs/pages/index.md", "docs/documentation/partials/**", "docs/pages/blog.html", "docs/documentation/elements.html", "docs/documentation/github.md", "docs/documentation/docs.md"], "author"=>{"name"=>"Pablo", "image"=>"https://i.ibb.co/mzdZFfp/Pablo-jekyll.png", "behance"=>"your_username", "email"=>"pablodel@alum.calarts.edu", "facebook"=>"your_username", "github"=>"your_username", "linkedin"=>"your_username", "medium"=>"your_username", "twitter"=>"your_username"}, "disqus"=>{"shortname"=>"your-short-name-disqus"}, "analytics"=>{"enabled"=>false, "google"=>{"tracking_id"=>"your-google-tracking-id"}}, "livereload_port"=>35729, "serving"=>true, "watch"=>true, "url"=>"http://0.0.0.0:8080", "github"=>{
   "api_url": "https://api.github.com",
   "archived": false,
   "baseurl": "/pages/pablo-de-l/JekyllBlog-Pablode25",
-  "build_revision": "1f10a88e7af6e748018f50a67904a94316e3dacf",
+  "build_revision": "6fbffe63c18023cd1e39911061ad8a4c646fcb75",
   "clone_url": "https://github.com/pablo-de-l/JekyllBlog-Pablode25.git",
   "contributors": [
     {
@@ -22,6 +22,27 @@
       "repos_url": "https://api.github.com/users/ttury/repos",
       "events_url": "https://api.github.com/users/ttury/events{/privacy}",
       "received_events_url": "https://api.github.com/users/ttury/received_events",
+      "type": "User",
+      "site_admin": false,
+      "contributions": 3
+    },
+    {
+      "login": "pablo-de-l",
+      "id": 72349966,
+      "node_id": "MDQ6VXNlcjcyMzQ5OTY2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72349966?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pablo-de-l",
+      "html_url": "https://github.com/pablo-de-l",
+      "followers_url": "https://api.github.com/users/pablo-de-l/followers",
+      "following_url": "https://api.github.com/users/pablo-de-l/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pablo-de-l/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pablo-de-l/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pablo-de-l/subscriptions",
+      "organizations_url": "https://api.github.com/users/pablo-de-l/orgs",
+      "repos_url": "https://api.github.com/users/pablo-de-l/repos",
+      "events_url": "https://api.github.com/users/pablo-de-l/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pablo-de-l/received_events",
       "type": "User",
       "site_admin": false,
       "contributions": 1
@@ -140,8 +161,8 @@
       "releases_url": "https://api.github.com/repos/pablo-de-l/pablo-de-l.github.io/releases{/id}",
       "deployments_url": "https://api.github.com/repos/pablo-de-l/pablo-de-l.github.io/deployments",
       "created_at": "2021-02-25 03:31:01 UTC",
-      "updated_at": "2021-05-11 02:19:36 UTC",
-      "pushed_at": "2021-04-29 20:34:57 UTC",
+      "updated_at": "2021-05-11 03:42:38 UTC",
+      "pushed_at": "2021-05-11 03:42:22 UTC",
       "git_url": "git://github.com/pablo-de-l/pablo-de-l.github.io.git",
       "ssh_url": "git@github.com:pablo-de-l/pablo-de-l.github.io.git",
       "clone_url": "https://github.com/pablo-de-l/pablo-de-l.github.io.git",
