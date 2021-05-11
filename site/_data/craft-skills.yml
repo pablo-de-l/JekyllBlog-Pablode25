@@ -1,0 +1,15 @@
+- name: Model making
+  percentage: 90
+  color: secondary
+
+- name: Digital Fabrication
+  percentage: 85
+  color: secondary
+
+- name: 3D Modeling
+  percentage: 80
+  color: success
+
+- name: Sculpture
+  percentage: 80
+  color: success

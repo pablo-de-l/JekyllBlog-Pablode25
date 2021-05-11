@@ -1,0 +1,98 @@
+I"h<h1 id="about-me"><strong>About Me</strong></h1>
+
+<p>Hi I am <strong>Pablo</strong> :wave:,<br />
+I’m a Mexican designer that inspires and empowers people through art and design by collaborating in multidisciplinary teams to tell stories. I’m passionate about Themed Entertainment and Experience design as I believe that the immersive encounters facilitated by this form of expression lead to  interactions that culminate in transformation.</p>
+
+<p>My work ranges from scenic design and experience design to virtual environment design, model making, lighting design, digital fabrication, graphic design, sculpture and more..</p>
+
+<div class="row">
+<div class="col-lg">
+  <h2 class="mb-3">Craft Skills</h2>
+    
+      <div class="skill">
+        <p>Model making</p>
+        <div class="skill-bar skill-bar-secondary skill-90 wow animated slideInLeft" data-wow-delay="0.05">
+          <span>90%</span>
+        </div>
+      </div>
+    
+      <div class="skill">
+        <p>Digital Fabrication</p>
+        <div class="skill-bar skill-bar-secondary skill-85 wow animated slideInLeft" data-wow-delay="0.1">
+          <span>85%</span>
+        </div>
+      </div>
+    
+      <div class="skill">
+        <p>3D Modeling</p>
+        <div class="skill-bar skill-bar-success skill-80 wow animated slideInLeft" data-wow-delay="0.15">
+          <span>80%</span>
+        </div>
+      </div>
+    
+      <div class="skill">
+        <p>Sculpture</p>
+        <div class="skill-bar skill-bar-success skill-80 wow animated slideInLeft" data-wow-delay="0.2">
+          <span>80%</span>
+        </div>
+      </div>
+    
+</div>
+<div class="col-lg">
+  <h2 class="mb-3">Software Skills</h2>
+    
+      <div class="skill">
+        <p>Photoshop</p>
+        <div class="skill-bar skill-bar-secondary skill-90 wow animated slideInLeft" data-wow-delay="0.05">
+          <span>90%</span>
+        </div>
+      </div>
+    
+      <div class="skill">
+        <p>Illustrator</p>
+        <div class="skill-bar skill-bar-secondary skill-80 wow animated slideInLeft" data-wow-delay="0.1">
+          <span>80%</span>
+        </div>
+      </div>
+    
+      <div class="skill">
+        <p>SketchUp</p>
+        <div class="skill-bar skill-bar-success skill-80 wow animated slideInLeft" data-wow-delay="0.15">
+          <span>80%</span>
+        </div>
+      </div>
+    
+      <div class="skill">
+        <p>VectorWorks</p>
+        <div class="skill-bar skill-bar-success skill-70 wow animated slideInLeft" data-wow-delay="0.2">
+          <span>70%</span>
+        </div>
+      </div>
+    
+</div>
+</div>
+
+<div class="row">
+<div class="col mt-4">
+  <div class="timeline-body">
+    
+      <div class="timeline-item">
+        <div class="content">
+          <h2>Experience Design and Production at CalArts</h2>
+          <h6 class="date">2020 — 2024 (expected)</h6>
+          <p>Specialization in Experience and Scenic Design</p>
+        </div>
+      </div>
+    
+      <div class="timeline-item">
+        <div class="content">
+          <h2>Multicultural High School at Tecnológico de Monterrey</h2>
+          <h6 class="date">2017 — 2020</h6>
+          <p></p>
+        </div>
+      </div>
+    
+  </div>
+</div>
+</div>
+:ET

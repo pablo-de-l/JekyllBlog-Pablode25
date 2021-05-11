@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Pablo de Larrañaga Aramoni
-description         : Transforming our shared history by connecting human stories through experience design.
+description         : Connecting human stories through experience design.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          :     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+remote_theme        : # YoussefRaafatNasry/portfolYOU
 
 
 ### Plugins ###
@@ -27,7 +27,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Pablo
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : https://i.ibb.co/mzdZFfp/Pablo-jekyll.png
   behance           : your_username
 # dribbble          : your_username
   email             : pablodel@alum.calarts.edu
@@ -98,3 +98,5 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+destination: ../docs
